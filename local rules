@@ -14,7 +14,7 @@ external-controller: 127.0.0.1:9090
 proxy-providers:
   MyAirport:
     type: http
-    url: "https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/ApFEL66tKq2mSENE?clash=1"
+    url: "自己的订阅链接"
     path: ./CNIX.yaml
     interval: 86400
     health-check:
